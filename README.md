@@ -10,4 +10,4 @@
 -------------------------------------------------------------------------------
 ## Screen Shots: 
 ### Start:
-![](https://github.com/Majd-Yahia/ZigZag/blob/main/gifs/fruitninja.gif) 
+![](https://github.com/Majd-Yahia/FruitNinjaClone/blob/main/gifs/fruitninja.gif) 
