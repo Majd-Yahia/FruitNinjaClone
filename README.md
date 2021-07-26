@@ -1,4 +1,4 @@
-# ZigZag 
+# Fruit Ninja Clone 
 - is a mini game to show case my coding capabilities understanding of basic unity interactions and basic physics system. 
 
 ## Description: 
