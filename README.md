@@ -8,6 +8,5 @@
     - [FXIFIED](https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-free-pack-169179)
 
 -------------------------------------------------------------------------------
-## Screen Shots: 
-### Start:
+## Game: 
 ![](https://github.com/Majd-Yahia/FruitNinjaClone/blob/main/gifs/fruitninja.gif) 
